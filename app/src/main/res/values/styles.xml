@@ -8,8 +8,5 @@
         <item name="android:textStyle">bold</item>
         <item name="android:textColor">@android:color/white</item>
         <item name="android:fontFamily">@font/roboto</item>
-        <item name="android:layout_marginStart">@dimen/margin_wide</item>
-        <item name="android:layout_marginEnd">@dimen/margin_wide</item>
-
     </style>
 </resources>
